@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "PIN_Switcher")(type "KiCad")(uri "${KIPRJMOD}/pin_switcher_components.kicad_sym")(options "")(descr ""))
+  (lib (name "Skyworks")(type "KiCad")(uri "${KIPRJMOD}/../kicad-libs/Skyworks.kicad_sym")(options "")(descr ""))
+)
