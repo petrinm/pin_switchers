@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "PIN_Switcher")(type "Legacy")(uri "${KIPRJMOD}/pin_switcher_components.lib")(options "")(descr ""))
+)

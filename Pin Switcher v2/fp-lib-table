@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Pin Switcher")(type "KiCad")(uri "${KIPRJMOD}")(options "")(descr ""))
+  (lib (name "Misc")(type "KiCad")(uri "${KIPRJMOD}/../kicad-libs/Misc.pretty")(options "")(descr ""))
+)
