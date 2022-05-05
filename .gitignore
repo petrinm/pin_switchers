@@ -1,6 +1,10 @@
+# KiCAD temp files
+*.kicad_prl
+*-backups
+gerbers
+
+# Legacy KiCAD legacy temp files
 *.bak
 *-bak
 *.bck
 *.net
-*-backups
-gerbers
